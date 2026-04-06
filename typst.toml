@@ -1,0 +1,10 @@
+[package]
+name = "touying-pres-cdu"
+version = "1.0.0"
+authors = ["TPPPP<https://github.com/TPPPP72>"]
+license = "MIT"
+description = "Touying slide theme for CDU"
+repository = "https://github.com/TPPPP72/report-flow-cdu"
+entrypoint = "src/theme.typ"
+keywords = ["touying", "slide", "presentation", "cdu", "university"]
+categories = ["presentation"]
