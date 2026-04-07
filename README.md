@@ -1,12 +1,14 @@
-# touying-pres-cdu Touying 成都大学模板
+# monet-touying-cdu
 
-## 特点
-使用莫奈取色完成色彩调配，自动排版
+## 简介 Introduction
+这是一个由本校学生自行维护的，以校徽为主题色，莫奈取色为灵感的 Touying 模板。
 
-## 演示样例
+This is a Touying template maintained by students of this school, featuring the school emblem as its theme color and inspired by Monet's colors.
+
+## 演示样例 Example
 
 ```typ
-#import "@preview/touying-pres-cdu:1.0.0": *
+#import "@preview/monet-touying-cdu:1.0.0": *
 
 #show: cdu-theme.with(
   config-info(

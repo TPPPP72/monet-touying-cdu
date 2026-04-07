@@ -173,6 +173,14 @@
   ))
   
   set text(fill: self.colors.p-900, size: 18pt)
+
+  show raw.where(block: true): it => block(
+    fill: monet-colors.neutral-lightest,
+    inset: 10pt,
+    radius: 4pt,
+    width: 100%,
+    it,
+  )
   
   let safe-body(body) = {
     set std.align(top)
